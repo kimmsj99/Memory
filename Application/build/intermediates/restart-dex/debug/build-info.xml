@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="hdpi"
+    format="7"
+    timestamp="7931855506780"
+    token="-1025735228538303103"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="845" />
+    <task
+        name="instant-run-dex"
+        duration="1304" />
+    <task
+        name="instant-run-transform"
+        duration="8" />
+    <task
+        name="verifier"
+        duration="37" />
+
+    <artifact
+        location="/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="6888633618072" >
+        <artifact
+            location="/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="7753437237733" >
+        <artifact
+            location="/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="7931855506780"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
