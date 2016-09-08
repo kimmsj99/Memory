@@ -44,6 +44,10 @@
         "source": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/woohyun2.jpg",
+        "source": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/res/drawable-hdpi/woohyun2.jpg"
+    },
+    {
         "merged": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/ifnt.jpg",
         "source": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/res/drawable-hdpi/ifnt.jpg"
     },
@@ -84,6 +88,10 @@
         "source": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/sungkyu2.jpg",
+        "source": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/res/drawable-hdpi/sungkyu2.jpg"
+    },
+    {
         "merged": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/drawer_shadow.9.png",
         "source": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/res/drawable-hdpi/drawer_shadow.9.png"
     },
@@ -102,6 +110,14 @@
     {
         "merged": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
         "source": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/sungkyu3.png",
+        "source": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/res/drawable-hdpi/sungkyu3.png"
+    },
+    {
+        "merged": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo.png",
+        "source": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/res/drawable-hdpi/logo.png"
     },
     {
         "merged": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",

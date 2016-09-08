@@ -12,14 +12,27 @@
                     "endOffset": 129
                 },
                 "from": {
+                    "file": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/res/values-v20/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 287
+                },
+                "from": {
                     "file": "/Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/res/values-v20/styles.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 671,
-                        "endLine": 19,
+                        "startOffset": 750,
+                        "endLine": 22,
                         "endColumn": 12,
-                        "endOffset": 745
+                        "endOffset": 903
                     }
                 }
             }
