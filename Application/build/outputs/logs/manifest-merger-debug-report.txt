@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:17:1-51:12
+ADDED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:17:1-54:12
 	package
 		ADDED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:18:5-51
 	android:versionName
@@ -14,7 +14,7 @@ ADDED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main
 	xmlns:android
 		ADDED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:17:11-69
 application
-ADDED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:24:5-49:19
+ADDED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:24:5-52:19
 MERGED from [com.android.support:support-v13:24.0.0] /Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0] /Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
@@ -64,6 +64,12 @@ ADDED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main
 		ADDED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:47:13-45
 	android:name
 		ADDED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:46:13-53
+activity#com.example.android.navigationdrawer.ViewPagerActivity
+ADDED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:49:9-51:15
+	android:theme
+		ADDED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:50:13-51
+	android:name
+		ADDED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml:49:19-52
 uses-sdk
 INJECTED from /Users/appcreator26/AndroidStudioProjects/Memory/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:support-v13:24.0.0] /Users/appcreator26/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/AndroidManifest.xml:21:5-23:55
